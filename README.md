@@ -1,3 +1,1 @@
-# My-sample-repository
-# My-sample-repository
-# My-sample-repository
+"This is a sample Repository"
